@@ -1,0 +1,389 @@
+<resources>
+    <string name="app_name">SolarSystemApp</string>
+
+    <string name="mercury_title">Mercurio</string>
+    <string name="venus_title">Venus</string>
+    <string name="earth_title">Tierra</string>
+    <string name="mars_title">Marte</string>
+    <string name="jupiter_title">Jupiter</string>
+    <string name="satrun_title">Saturno</string>
+    <string name="uranus_title">Urano</string>
+    <string name="neptune_title">Neptuno</string>
+
+    <string name="moon_title">Luna</string>
+    <string name="deimos_title">Deimos</string>
+    <string name="phobos_title">Phobos</string>
+    <string name="callisto_title">Calisto</string>
+    <string name="europe_title">Europa</string>
+    <string name="ganymede_title">Ganymedes</string>
+    <string name="io_title">Io</string>
+    <string name="dione_title">Dione</string>
+    <string name="encelado_title">Encelado</string>
+    <string name="febe_title">Febe</string>
+    <string name="japeto_title">Jápeto</string>
+    <string name="laomedeia_title">Laomedeia</string>
+    <string name="mimas_title">Mimas</string>
+    <string name="titan_title">Titán</string>
+    <string name="hyperion_title">Hyperión</string>
+    <string name="rea_title">Rea</string>
+    <string name="tethys_title">Tethys</string>
+    <string name="ariel_title">Ariel</string>
+    <string name="miranda_title">Miranda</string>
+    <string name="oberon_title">Oberon</string>
+    <string name="titania_title">Titania</string>
+    <string name="umbriel_title">Umbriel</string>
+    <string name="neredia_title">Neredia</string>
+    <string name="neso_title">Neso</string>
+    <string name="psamathe_title">Psamathe</string>
+
+    <!-- Inicio -->
+    <string name="initial_text">Aquí encontrarás una breve explicación de cuerpos celestes
+    de nuestro Sistema Solar, solo deberás hacer click en la imagen, y máximizar su información.</string>
+
+
+    <!-- Planetas -->
+    <string name="mercury_description">Mercurio es el planeta del sistema solar más cercano al Sol y
+        el más pequeño. Forma parte de los denominados planetas interiores y carece de satélites
+        naturales al igual que Venus. Se conocía muy poco sobre su superficie hasta que fue enviada
+        la sonda planetaria Mariner 10 y se hicieron observaciones con radar y radiotelescopios.
+        Posteriormente fue estudiado por la sonda MESSENGER de la NASA y actualmente la astronave de
+        la Agencia Europea del Espacio (ESA) denominada BepiColombo, lanzada en octubre de 2018, se
+        halla en vuelo rumbo a Mercurio a donde llegará en 2025 y se espera que aporte nuevos
+        conocimientos sobre el origen y composición del planeta, así como de su geología y campo magnético.
+    </string>
+    <string name="venus_description">Venus es el segundo planeta del sistema solar en orden de proximidad
+        al Sol y el tercero en cuanto a tamaño en orden ascendente después de Mercurio y Marte.
+        Al igual que Mercurio, carece de satélites naturales. Recibe su nombre en honor a Venus,
+        la diosa romana del amor (en la Antigua Grecia, Afrodita). Al ser el segundo objeto natural
+        más brillante después de la Luna, puede ser visto en un cielo nocturno despejado a simple vista.
+        Se trata de un planeta interior de tipo rocoso y terrestre, llamado con frecuencia el
+        planeta hermano de la Tierra, ya que ambos son similares en cuanto a tamaño, masa y composición,
+        aunque totalmente diferentes en cuestiones térmicas y atmosféricas (la temperatura media
+        de Venus es de 463,85 °C). Su órbita es una elipse con una excentricidad de menos del 1 %,
+        formando la órbita más circular de todos los planetas; apenas supera la de Neptuno.
+        Su presión atmosférica es 90 veces superior a la terrestre; es, por lo tanto, la mayor presión
+        atmosférica de todos los planetas rocosos del sistema solar.
+    </string>
+    <string name="earth_description">La Tierra (del latín Terra, deidad romana equivalente a Gea,
+        diosa griega de la feminidad y la fecundidad) es un planeta del sistema solar que gira alrededor
+        de su estrella —el Sol— en la tercera órbita más interna. Es el más denso y el quinto mayor
+        de los ocho planetas del sistema solar. También es el mayor de los cuatro terrestres o rocosos.
+
+        La Tierra se formó hace aproximadamente 4550 millones de años y la vida surgió unos mil millones
+        de años después. Es el hogar de millones de especies, incluidos los seres humanos y
+        actualmente el único cuerpo astronómico donde se conoce la existencia de vida.
+        La atmósfera y otras condiciones abióticas han sido alteradas significativamente por la
+        biosfera del planeta, favoreciendo la proliferación de organismos aerobios, así como la
+        formación de una capa de ozono que junto con el campo magnético terrestre bloquean la radiación
+        solar dañina, permitiendo así la vida en la Tierra.
+    </string>
+    <string name="mars_description">Marte es el cuarto planeta en orden de distancia al Sol y el segundo
+        más pequeño del sistema solar, después de Mercurio. Recibió su nombre en homenaje al dios de
+        la guerra de la mitología romana (Ares en la mitología griega), y también es conocido como
+        «el planeta rojo» debido a la apariencia rojiza que le confiere el óxido de hierro
+        predominante en su superficie. Marte es el planeta interior más alejado del Sol.
+        Es un planeta telúrico con una atmósfera delgada de dióxido de carbono, y tiene dos satélites
+        pequeños y de forma irregular, Fobos y Deimos (hijos del dios griego), que podrían ser asteroides
+        capturados similares al asteroide troyano (5261) Eureka.
+        Sus características superficiales recuerdan tanto a los cráteres de la Luna como a los valles,
+        desiertos y casquetes polares de la Tierra.
+    </string>
+    <string name="jupiter_description">Júpiter es el planeta más grande del sistema solar y el quinto
+        en orden de lejanía al Sol. Es un gigante gaseoso que forma parte de los denominados planetas exteriores.
+        Recibe su nombre del dios romano Júpiter (Zeus en la mitología griega). Es uno de los objetos
+        naturales más brillantes en un cielo nocturno despejado, superado solo por la Luna, Venus y
+        algunas veces Marte.
+
+        Se trata del planeta que ofrece un mayor brillo a lo largo del año dependiendo de su fase.
+        Es, además, después del Sol, el mayor cuerpo celeste del sistema solar, con una masa casi dos
+        veces y media de la de los demás planetas juntos (con una masa 318 veces mayor que la de la
+        Tierra y tres veces mayor que la de Saturno, además de ser, en cuanto a volumen, 1321 veces
+        más grande que la Tierra). También es el planeta más antiguo del sistema solar, siendo incluso
+        más antiguo que el Sol; este descubrimiento fue realizado por investigadores de la universidad
+        de Münster en Alemania.
+
+        Júpiter es un cuerpo masivo gaseoso, formado principalmente por hidrógeno y helio, carente de una
+        superficie interior definida. Entre los detalles atmosféricos es notable la Gran Mancha Roja
+        (un enorme anticiclón situado en las latitudes tropicales del hemisferio sur), la estructura
+        de nubes en bandas oscuras y zonas brillantes, y la dinámica atmosférica global determinada
+        por intensos vientos zonales alternantes en latitud y con velocidades de hasta 140 m/s (504 km/h).
+    </string>
+    <string name="saturn_description">Saturno es el sexto planeta del sistema solar contando desde el Sol,
+        el segundo en tamaño y masa después de Júpiter y el único con un sistema de anillos visible desde
+        la Tierra. Su nombre proviene del dios romano Saturno. Forma parte de los denominados
+        planetas exteriores o gaseosos. El aspecto más característico de Saturno son sus brillantes
+        y grandes anillos. Antes de la invención del telescopio, Saturno era el más lejano de los
+        planetas conocidos y, a simple vista, no parecía luminoso ni interesante. El primero en
+        observar los anillos fue Galileo en 1610, pero la baja inclinación de los anillos y la
+        baja resolución de su telescopio le hicieron pensar en un principio que se trataba de grandes lunas.
+        Christiaan Huygens, con mejores medios de observación, pudo en 1659 observar con claridad los anillos.
+        James Clerk Maxwell, en 1859, demostró matemáticamente que los anillos no podían ser un
+        único objeto sólido sino que debían ser la agrupación de millones de partículas de menor tamaño.
+        Las partículas que componen los anillos de Saturno giran a una velocidad de 48 000 km/h, 15 veces
+        más rápido que una bala.
+    </string>
+    <string name="uranus_description">Urano es el séptimo planeta del sistema solar, el tercero de mayor tamaño,
+        y el cuarto más masivo. Se llama así en honor de la divinidad griega del cielo Urano
+        (del griego antiguo Οὐρανός), el padre de Crono (Saturno) y el abuelo de Zeus (Júpiter).
+        Aunque es detectable a simple vista en el cielo nocturno, no fue catalogado como planeta por
+        los astrónomos de la antigüedad debido a su escasa luminosidad y a la lentitud de su órbita.
+        William Herschel anunció su descubrimiento el 13 de marzo de 1781, ampliando las fronteras
+        entonces conocidas del sistema solar, por primera vez en la historia moderna. Urano es también
+        el primer planeta descubierto por medio de un telescopio.
+    </string>
+    <string name="neptune_description">Neptuno es el octavo planeta en distancia respecto al Sol y
+        el más lejano del sistema solar. Forma parte de los denominados planetas exteriores, y dentro de estos,
+        es uno de los gigantes helados, y es el primero que fue descubierto gracias a predicciones matemáticas.
+        Su nombre fue puesto en honor al dios romano del mar —Neptuno—, y es el cuarto planeta en
+        diámetro y el tercero más grande en masa. Su masa es diecisiete veces la de la Tierra y ligeramente
+        mayor que la de su planeta «gemelo» Urano, que tiene quince masas terrestres y no es tan denso.
+        En promedio, Neptuno orbita el Sol a una distancia de 30,1 ua. Su símbolo astronómico es ♆,
+        una versión estilizada del tridente del dios Neptuno.
+    </string>
+
+    <!-- Lunas -->
+    <string name="moon_description">La Luna es el único satélite natural de la Tierra. Con un diámetro
+        ecuatorial de 3474.8 km, es el quinto satélite más grande del sistema solar, mientras que en
+        cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del
+        diámetro de la Tierra y 1/81 de su masa. Es, además, después de Ío, el segundo satélite más denso.
+        Se encuentra en relación síncrona con la Tierra, siempre mostrando la misma cara hacia el planeta.
+        El hemisferio visible está marcado con oscuros mares lunares de origen volcánico entre las
+        brillantes montañas antiguas y los destacados astroblemas.
+    </string>
+    <string name="deimos_description">Deimos (del griego Δείμος, «terror») es el más pequeño y externo
+        de los dos satélites de Marte y uno de los satélites más pequeños que han recibido nombre,
+        llamado así por Deimos, un personaje de la mitología griega. En rotación síncrona con el planeta,
+        recorre una órbita casi circular, muy próxima al plano ecuatorial marciano, en 30,3 horas:
+        un periodo ligeramente superior a la rotación del planeta rojo. Es de forma irregular.
+        Tiene un diámetro medio de 12,4 km, una masa estimada de 1,4762×1015 kg y una densidad media
+        de 1471 kg/m³. Su composición, supuesta similar a la de los asteroides de tipo  y los núcleos
+        cometarios extintos, plantea serias dificultades a los estudiosos que tratan de explicar su origen.
+    </string>
+    <string name="phobos_description">Fobos (del griego Φóβoς, "miedo") es el más grande de los dos
+        satélites de Marte y el más cercano al planeta, siendo Deimos el otro satélite. Ambos fueron
+        descubiertos por el astrónomo estadounidense Asaph Hall (1829-1907) el 18 de agosto de 1877,
+        con el gran refractor de 66 cm del Observatorio Naval de los Estados Unidos de Washington D. C.,
+        obra del óptico estadounidense Alvan Clark (1804-1887). Fue el propio descubridor el que propuso
+        los nombres, inspirado por el libro XV de la Ilíada, en el que el dios Ares (Marte en la mitología romana)
+        invoca al miedo (fobos) y al terror (deimos).
+    </string>
+    <string name="callisto_description">Calisto (del griego Καλλιστώ) es un satélite del planeta Júpiter
+        descubierto en 1610 por Galileo Galilei. Es el tercer satélite más grande del sistema solar
+        y el segundo del sistema joviano, después de Ganimedes. Calisto tiene aproximadamente el 99 %
+        del diámetro del planeta Mercurio, pero solo un tercio de su masa. Es el cuarto satélite galileano
+        en cuanto a distancia a Júpiter, con un radio orbital de 1 880 000 kilómetros. No está influido
+        por la resonancia orbital que afecta a los tres satélites galileanos interiores —Ío, Europa y Ganimedes—,
+        por lo que no sufre un calentamiento apreciable por fuerzas de marea, como sí ocurre en
+        los otros tres. Calisto tiene una rotación síncrona, es decir, su período de rotación concuerda
+        con su período orbital, de manera que, igual que la Luna con la Tierra, siempre «muestra» la
+        misma cara a Júpiter. La superficie de Calisto no está tan influida por la magnetosfera de Júpiter
+        como la de los otros satélites interiores ya que su órbita es más alejada.
+    </string>
+    <string name="europe_description">Europa es el sexto satélite natural de Júpiter en orden creciente
+        de distancia y el más pequeño de los cuatro satélites galileanos. Fue descubierto en
+        1610 por Galileo y nombrado por Europa, la madre del rey Minos de Creta y amante de Zeus.
+        Simon Marius sugirió el nombre tras su descubrimiento, pero este nombre, así como el nombre
+        de los otros satélites galileanos, no fue de uso común hasta mediados del siglo XX.
+        En gran parte de la literatura astronómica temprana aparece mencionado por su designación
+        numeral romana, Júpiter II, o como el segundo satélite de Júpiter. Además de haber sido observado
+        mediante telescopios terrestres, varias sondas espaciales (las primeras a principios de los años 1970)
+        lo han examinado de cerca. Es el sexto satélite más grande del sistema solar.
+    </string>
+    <string name="ganymedes_description">Ganimedes (del griego Γανυμήδης) es el satélite natural más
+        grande de Júpiter y del sistema solar, además de ser el único que tiene campo magnético.
+        En orden de distancias al planeta, es el séptimo más cercano y el tercero de los galileanos,
+        el primer grupo de objetos descubiertos que orbitan alrededor de un planeta. Completa su órbita
+        en aproximadamente siete días y mantiene una resonancia orbital con Ío y Europa de 1:2:4.
+        Su diámetro es de 5.268 km, un 8 % mayor que el de Mercurio, aunque solo representa el 45 %
+        de su masa. Es un 2 % mayor que Titán, el segundo satélite natural más grande, y el doble
+        de masivo que la Luna. En términos absolutos, es el noveno objeto más grande del sistema
+        solar y el mayor que no posee una atmósfera significativa.
+    </string>
+    <string name="io_description">Ío es el satélite galileano más cercano a Júpiter. Es el tercer
+        satélite por su tamaño, tiene la más alta densidad entre todos los satélites y, en proporción,
+        la menor cantidad de agua entre todos los objetos conocidos del sistema solar. Fue descubierto
+        por Galileo Galilei en 1610. Recibe su nombre de Ío, una de las muchas doncellas de las que Zeus
+        se enamoró en la mitología griega, aunque inicialmente recibió el nombre de Júpiter I por
+        ser el primer satélite de Júpiter según su cercanía al planeta.
+    </string>
+    <string name="dione_description">Dione es un satélite natural de Saturno descubierto en 1684
+        por Giovanni Cassini; el nombre proviene de la mitología griega. Cassini nombró a las cuatro
+        lunas descubiertas por él (Tetis, Dione, Rea y Jápeto) Sidera Lodoicea («las estrellas de Luis»)
+        en honor al rey Luis XIV. Los astrónomos de la época adoptaron la convención de nombrar
+        a los satélites con números romanos, y Dione también se conoce como Saturno IV. Los nombres
+        mitológicos de los satélites de Saturno fueron propuestos por John Herschel (hijo de William Herschel,
+        descubridor de Mimas y Encélado) en su estudio publicado en 1847, Results of Astronomical
+        Observations made at the Cape of Good Hope donde sugirió los nombres de los titanes,
+        hermanos y hermanas de Cronos.
+    </string>
+    <string name="encelado_description">Encélado es el sexto satélite más grande de Saturno con algo
+        más de 500 km de diámetro, aproximadamente la décima parte del de Titán, el mayor satélite
+        saturniano. Está cubierto por una capa de hielo reciente y limpio que refleja casi toda
+        la luz solar que incide sobre él, por lo que la temperatura superficial es muy baja, solo
+        alcanza los –198 °C a mediodía. A pesar de su pequeño tamaño, tiene una amplia variedad de
+        rasgos superficiales que van desde regiones antiguas y craterizadas a terrenos jóvenes y
+        deformados tectónicamente que se formaron hace apenas cien millones de años.
+    </string>
+    <string name="febe_description">Febe es el satélite irregular más grande de Saturno. Fue descubierto
+        por el astrónomo estadounidense William Henry Pickering en 1898. Tiene un diámetro de 220 km.
+        Su distancia a Saturno es de 12 954 000 km y su masa es de 4,0e+18 kg. Posee una inclinación
+        de su órbita de 175,3º. Refleja solo el 6 % de la luz solar que recibe. Tarda nueve horas en
+        completar una rotación sobre su eje.
+        Orbita alrededor de Saturno en unos 18 meses (550,4 días) en dirección contraria a la de los
+        demás satélites del planeta, en un plano más cercano al eclíptico que el plano ecuatorial de Saturno.
+    </string>
+    <string name="japeto_description">Jápeto es uno de los satélites del planeta Saturno. Es el octavo
+        más distante al planeta y el tercero en tamaño, con un diámetro de alrededor de 1500 km, después
+        de los satélites más grandes Titán y Rea. Fue descubierto por Giovanni Cassini en 1671.
+        Tarda en completar una vuelta alrededor de Saturno 79,33 días terrestres, a una distancia media de 3 561 300 km.
+        Uno de los hemisferios del satélite es mucho más oscuro que el otro, peculiar característica que se
+        podría deber a una composición distinta del material de la superficie, proveniente del interior
+        de la propia luna o bien de materia de otros satélites o anillos. No se conoce con certeza el
+        motivo real, aunque la segunda hipótesis cada vez es más apoyada por evidencias observacionales.
+    </string>
+    <string name="laomedeia_description">Laomedeia; (griego: Λαομέδεια), también Neptuno XII, es un
+        satélite irregular de Neptuno. Fue descubierto por Matthew J. Holman y otros astrónomos el 13
+        de agosto de 2002. Antes del anuncio de su nombre el 3 de febrero de 2007 fue conocido
+        como S/2002 N 3. Orbita alrededor de Neptuno a una distancia aproximada de 23.571.000 km y
+        tiene unos 42 kilómetros de diámetro (suponiendo que el albedo es de 0,04). Su nombre se debe
+        a Laomedeia, una de las 50 Nereidas.
+    </string>
+    <string name="mimas_description">Mimas es un satélite de Saturno descubierto en 1789 por William Herschel
+        y denominado en aquel momento como Saturno I por ser el satélite más interno de los descubiertos
+        por Herschel (gira alrededor de Saturno en ~ 22,5 horas). El nombre posterior, Mimas, proviene
+        de la mitología griega, siendo Mimas uno de los gigantes, hijo de Gea.
+    </string>
+    <string name="titan_description">Titán es el mayor de los satélites de Saturno y el segundo del
+        sistema solar tras Ganimedes. Además, es el único satélite conocido que posee una atmósfera
+        importante, y el único objeto, aparte de la Tierra, en el que se ha encontrado evidencia
+        clara de cuerpos líquidos estables en la superficie.
+        Es el sexto satélite elipsoidal de Saturno y frecuentemente es descrito como un satélite similar a un
+        planeta. Tiene un diámetro un 50 % más grande que la Luna y es un 80 % más masivo; es más grande
+        en volumen que el planeta Mercurio, aunque su masa representa el 40 % de este último.
+        Fue descubierto en 1655 por el astrónomo neerlandés Christiaan Huygens y fue el primer satélite
+        conocido de Saturno, y el quinto satélite conocido de otro planeta.
+    </string>
+    <string name="hyperion_description">Hiperión es un satélite de Saturno, el séptimo satélite clásico
+        en orden de distancia desde el planeta. Se distingue por su forma irregular, su rotación
+        , y su apariencia inexplicable parecida a una esponja.
+        Está en órbita a una distancia media de 1.481.000 km, realizando una vuelta en poco más de veintiún días
+        y seis horas. De forma relativamente irregular, tiene un diámetro de alrededor de 300 km y una
+        masa mil veces inferior a la de nuestra Luna. Su densidad es extraordinariamente baja, por lo
+        que en su mayor parte debe estar lleno de cavidades.
+        Hiperión fue descubierto en 1848 por los astrónomos William C. Bond y su hijo George P. Bond, e independientemente por William Lassell.
+        Probablemente está formado en su mayoría por hielo de agua.
+    </string>
+    <string name="rea_description">Rea es un satélite del planeta Saturno. Con 1529 km de diámetro
+        (aproximadamente la mitad que la Luna), es el segundo satélite más grande del planeta después
+        de Titán, y seguido de cerca por Jápeto. El satélite ocupa la decimocuarta posición en cercanía
+        al planeta, orbitando a una distancia de unos 527.000 km. Su órbita es casi circular y está
+        ligeramente inclinada con respecto al ecuador de Saturno, y el satélite tarda unos 4,5 días terrestres en completarla.
+        Se cree que Rea posee un núcleo rocoso que supone algo menos de una tercera parte del diámetro,
+        mientras que su manto y corteza podrían estar compuestos por agua helada e impurezas diversas.
+        El satélite fue descubierto en 1672 por el astrónomo italofrancés Giovanni Cassini, que le dio el
+        nombre de la figura mitológica griega Rea, hermana y esposa de Crono (Saturno en el panteón romano).
+        La luna fue fotografiada por la sonda estadounidense Voyager 1 en noviembre de 1980, cuando esta pasó
+        por el sistema de Saturno, y posteriormente por la sonda Cassini, la cual la estudió de cerca en
+        noviembre de 2005, en marzo de 2010, y en enero de 2011.
+    </string>
+    <string name="tethys_description">Tetis es el quinto satélite más grande de Saturno con un
+        diámetro de 1060 km. Está situado a una distancia de 294 619 km del centro del planeta y su
+        periodo orbital es de 1,888 días, el mismo que su rotación. Fue descubierto en 1684 por el
+        astrónomo francés de origen italiano Giovanni Domenico Cassini (1625-1712).
+        Tiene la densidad más baja entre los mayores satélites del sistema solar, lo que indica que está compuesto
+        por hielo de agua con una muy pequeña fracción de roca. La confirmación vino de los resultados
+        espectroscópicos que identificaron al hielo de agua como la sustancia dominante de la superficie.
+        También apareció una cantidad pequeña de un material oscuro sin identificar. La superficie de
+        Tetis es muy brillante, ocupando la segunda posición en brillo de los satélites saturnianos tras Encélado.
+    </string>
+    <string name="ariel_description">Ariel es el cuarto satélite más grande de Urano y el segundo en
+        proximidad de los satélites principales. Fue descubierto en 1851 por William Lassell y nombrado
+        por un personaje de dos diferentes obras de la literatura inglesa. Se conoce el 35 % de la
+        superficie del satélite por el sobrevuelo de la sonda Voyager 2 en 1986, el único acercamiento
+        al sistema uraniano hasta la fecha. Es el decimocuarto satélite en tamaño del sistema solar.
+        Orbita en el plano ecuatorial del planeta que, al ser perpendicular a la órbita de Urano alrededor
+        del Sol, hace que el satélite tenga un ciclo estacional extremo. Al igual que el resto de
+        satélites uranianos, se formó probablemente a partir del disco de acreción que rodeaba el
+        planeta tras su formación. Se cree que está compuesto por una mezcla equilibrada de rocas y hielos,
+        y diferenciado en un núcleo rocoso rodeado por un manto de hielo. Tiene una superficie compleja,
+        constituida por extensos terrenos craterizados y cortados por sistemas de escarpes, cañones y crestas.
+        Muestra signos de actividad geológica más reciente que en el resto de satélites, quizá producto del
+        calentamiento de marea.
+    </string>
+    <string name="miranda_description">Miranda, también designado como Urano I, es el menor de los
+        cinco satélites principales del planeta Urano y el último en ser descubierto hasta el sobrevuelo
+        de Urano por la sonda espacial Voyager 2. Descubierto por Gerard Kuiper el 16 de febrero de 1948,
+        recibe su nombre de Miranda la hija del mago Próspero de la obra de William Shakespeare La Tempestad.
+    </string>
+    <string name="oberon_description">Oberón o Urano IV es el más exterior de los satélites principales
+        del planeta Urano. Es el segundo más grande y masivo de Urano y el noveno más masivo del sistema solar.
+        Descubierto por William Herschel el 11 de enero de 1787, Oberón recibe su nombre de un personaje,
+        el rey de las Hadas, de la obra de William Shakespeare El sueño de una noche de verano. Su órbita
+        está parcialmente fuera de la magnetosfera de Urano.
+        Oberón está compuesto de partes aproximadamente iguales de hielo y roca que están probablemente
+        diferenciados en un núcleo rocoso y un manto de hielo. Una capa de agua líquida puede que
+        esté presente en el límite entre el núcleo y el manto. La superficie de Oberón, que es oscura
+        y de color ligeramente rojizo, parece que ha sido modelada por el impacto de asteroides y cometas.
+        Está cubierta por numerosos cráteres de impacto que llegan a alcanzar un diámetro de 210 km. Oberón
+        posee un sistema de cañones y escarpes formados por la expansión de su interior en una fase temprana
+        de su evolución. Este satélite se formó probablemente a partir del disco de acreción que rodeaba
+        Urano tras la formación del planeta.
+        Hasta el momento, el sistema de Urano ha sido estudiado de cerca una sola vez por la sonda espacial
+        Voyager 2 en enero de 1986. Se tomaron muchas fotografías de Oberón que permitieron cartografíar el 40 % de su superficie.
+    </string>
+    <string name="titania_description">Titania, también designado como Urano III, es el mayor de los satélites del planeta Urano
+        y el octavo del sistema solar. Descubierto por William Herschel el 11 de enero de 1787, Titania recibe su nombre de un personaje,
+        la reina de las Hadas, de la obra de William Shakespeare El sueño de una noche de verano.
+        Su órbita está completamente dentro de la magnetosfera de Urano.
+        Titania está compuesto de partes aproximadamente iguales de hielo y roca que están probablemente
+        diferenciados en un núcleo rocoso y un manto de hielo. Una capa de agua líquida puede que
+        esté presente en el límite entre el núcleo y el manto. La superficie de Titania, que es oscura
+        y de color ligeramente rojizo, parece que ha sido modelada tanto por impactos como por procesos
+        endógenos. Está cubierta por numerosos cráteres de impacto que llegan a alcanzar diámetros de 326km,
+        pero está menos craterizada que el satélite más externo de Urano, Oberón. Titania sufrió probablemente
+        un remodelado superficial endógeno que eliminó una antigua superficie más craterizada.
+        La superficie de Titania está atravesada por un sistema de enormes cañones y escarpes resultado
+        de una expansión en una fase temprana de su evolución. Como todos los satélites de Urano, Titania
+        se formó probablemente a partir del disco de acreción que rodeaba Urano justo después de la formación del planeta.
+    </string>
+    <string name="umbriel_description">Umbriel es un satélite de Urano descubierto el 24 de octubre
+        de 1851 por William Lassell, al mismo tiempo que Ariel, y nombrado por un personaje del poema
+        de Alexander Pope El rizo robado. El nombre fue sugerido en 1852 por John Herschel, hijo del
+        descubridor de Urano William Herschel, a petición del propio Lassell. Está constituido
+        principalmente por hielo con una parte sustancial de roca y su interior puede estar diferenciado
+        en un núcleo rocoso y un manto de hielo. La superficie es la más oscura de los satélites principales
+        de Urano (con esto, su nombre recuerda a la palabra latina «umbra», sombra en español) y
+        parece haber sido esculpida básicamente por impactos. Sin embargo, la presencia de cañones
+        sugiere que ha sufrido tempranos procesos endógenos que provocaron el rejuvenecimiento superficial
+        y borraron los terrenos más antiguos.
+    </string>
+    <string name="neredia_description">Nereida (del griego, Νηρηΐδα) es un satélite natural de Neptuno,
+        el tercero en tamaño. Fue descubierto por Gerard Kuiper en 1949. Su órbita es muy elíptica, por
+        lo que podría tratarse de un objeto capturado. Apenas se conocen detalles de su superficie.
+        En 1989, cuando la sonda espacial Voyager 2 sobrevoló el sistema de Neptuno, pasó muy lejos de este satélite.
+    </string>
+    <string name="neso_description">Neso (nee soe,; Νησώ griego), también conocido como Neptuno XIII,
+        es un satélite irregular ultraperiférico de Neptuno. Fue descubierto por Matthew J. Holman y J. Brett Gladman,
+        el 14 de agosto de 2002, aunque ha pasado inadvertido hasta el 2003.
+        Neso orbita a Neptuno a una distancia de más de 48 Gm (millones de kilómetros), lo que lo hace el
+        satélite más distante conocido de cualquier planeta. La distancia media a la que orbita Neptuno
+        es mayor que las máximas aproximaciones de Venus a la Tierra, lo que da una idea de su lejanía.
+        Recorre una órbita de gran inclinación y alta excentricidad. Su órbita se ilustra en el diagrama,
+        en relación con otros satélites irregulares de Neptuno. Los satélites por encima del eje horizontal
+        son progrados, los que están por debajo retrógrados. Los segmentos amarillos se extienden desde el
+        pericentro el apocentro, que muestra la excentricidad
+    </string>
+    <string name="psamathe_description">Sámate (del griego Ψαμάθη, nombre de una de las cincuenta ninfas
+        Nereidas) o Neptuno X, es un satélite natural de Neptuno. Anteriormente se le otorgó la denominación
+        provisional de S/2003 N 1.Está situado cerca de la teórica órbita estable de Neptuno para un cuerpo
+        con movimiento retrógrado.
+        Sámate fue descubierto por los astrónomos Scott S. Sheppard y David C. Jewitt en 2003. Su órbita
+        alrededor de Neptuno tiene un radio orbital medio de 46.695.000 km y tarda casi 25 años terrestres
+        en completarla. Su diámetro es de alrededor de 28 km, medida obtenida a partir de su albedo.
+        Inclinación de la órbita: 146,60° (con respecto al ecuador de Neptuno), 126,312° (con respecto a la eclíptica)
+        Dada la similitud entre los parámetros orbitales de Sámate y S/2002 N 4, se ha sugerido que ambos
+        satélites puedan provenir de la disgregación de una luna de mayor tamaño. Ambos satélites
+        son los que más alejados están de sus planetas de todo el sistema solar.
+    </string>
+
+</resources>
